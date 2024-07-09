@@ -50,3 +50,47 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+Setting Up Developer Environment Documentation
+1. Operating System (OS) Installation
+Operating System: Windows 11
+Installation: Downloaded from Microsoft
+Notes: Ensure compatibility with all required development tools and software.
+2. Text Editor/IDE Installation
+Text Editor/IDE: Visual Studio Code
+Installation: Downloaded from Visual Studio Code
+Extensions: Installed extensions for syntax highlighting, linting, and version control integration.
+Customizations: Configured settings for preferred theme, key bindings, and workspace preferences.
+3. Version Control System (Git)
+Installation: Installed Git from git-scm.com
+Configuration: Configured Git username, email, and global settings.
+GitHub: Created a GitHub account and set up repositories for version control.
+4. Programming Languages and Runtimes
+Python:
+Installed Python from python.org
+Set up Python environment variables.
+Dart:
+Issue Encountered: Access Denied error during Dart installation.
+Troubleshooting: Attempted to take ownership of installation directory and adjust permissions without success.
+5. Package Managers
+Python (pip):
+Installed pip for managing Python packages.
+6. Database Setup (MySQL)
+Database: MySQL
+Installation: Downloaded MySQL from dev.mysql.com
+Configuration: Set up MySQL server and configured initial databases and users.
+7. Development Environments and Virtualization
+Virtualization: Considered Docker for isolating project dependencies but not yet implemented.
+8. Extensions and Plugins
+Explored and installed extensions in Visual Studio Code for enhanced development workflows.
+Reflection on Setup Challenges and Strategies
+Setting up the developer environment involved several challenges, particularly with Dart installation:
+
+Access Denied Issue: Encountered difficulty installing Dart due to permissions issues.
+Strategies Employed:
+Attempted to take ownership of installation directory.
+Adjusted folder permissions through various methods.
+Sought alternative installation methods and consulted online resources.
+Overall Setup Reflection:
+Successes: Successfully installed and configured most tools necessary for development, including Python, Git, Visual Studio Code, and MySQL.
+Challenges: Dart installation remains unresolved due to persistent access denied errors.
+Next Steps: Further investigate and resolve Dart installation issue to complete the developer environment setup.
